@@ -9,6 +9,10 @@
   "author": "Santhosh DK",
   "license": "ISC",
   "bin": {
-    "create-prajwal-app":"bin/prajwal.js"
+    "create-prajwal-app": "bin/prajwal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/santhoshdk23/create-prajwal-app.git"
   }
 }
